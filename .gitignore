@@ -1,33 +1,33 @@
 
-Force Solutions/60k_non_flat
-Force Solutions/300k_flat
-MH UR paper/0.7 TL/Flat net/TL_0_7_forze_V_0_epochs_5100000.zip
-MH UR paper/0.9 TL/flat net/TL_0_9_unfrozen_addloss_V_epochs_5100000.zip
+main_paper_results/Flame_equation/60k_non_flat
+main_paper_results/Flame_equation/300k_flat
+main_paper_results/Holography/0.7 TL/Flat net/TL_0_7_forze_V_0_epochs_5100000.zip
+main_paper_results/Holography/TL_0_9_unfrozen_addloss_V_epochs_5100000.zip
 *.zip
-Rescale time/15e5_flat
-Rescale time/15e5_non_flat
-Rescale time/300k_flat
-Rescale time/300k_non_flat
-Rescale time/MH_004_002_15e5/15e5_flat
-Rescale time/MH_004_002_15e5/15e5_non_flat
-Rescale time/Plot Factory/15e5_flat
-Rescale time/Plot Factory/15e5_non_flat
-Rescale time/Plot Factory/Transfered_net_flat
-Rescale time/Plot Factory/Transfered_net_non_flat
-Rescale time/Transfered_net_flat
-Rescale time/Transfered_net_non_flat
-Van der Pol/15e5_0_to_15
-Van der Pol/15e5_flat_0_to_15
-Van der Pol/First_try/15e5_0_to_15
-Van der Pol/First_try/Transfered_flat_6e6
-Van der Pol/First_try/Transfered_flat_6e6_1_6
-Van der Pol/First_try/Transfered_flat_7e6_1_6
-Van der Pol/Plot Factory/15e5_0_to_15
-Van der Pol/Plot Factory/15e5_flat_0_to_15
-Van der Pol/Plot Factory/Transfered_flat_1_7
-Van der Pol/Plot Factory/Transfered_non_flat_1_7
-Van der Pol/Transfered_flat_1_7
-Van der Pol/Transfered_non_flat_1_6
-Van der Pol/Transfered_non_flat_1_7
-Rescale time/Third_transfer/Transfered_net_non_flat
-Rescale time/Third_transfer/Transfered_net_flat
+main_paper_results/Flame_equation/15e5_flat
+main_paper_results/Flame_equation//15e5_non_flat
+main_paper_results/Flame_equation//300k_flat
+main_paper_results/Flame_equation/300k_non_flat
+main_paper_results/Flame_equation/MH_004_002_15e5/15e5_flat
+main_paper_results/Flame_equation/MH_004_002_15e5/15e5_non_flat
+main_paper_results/Flame_equation/Plot Factory/15e5_flat
+main_paper_results/Flame_equation/Plot Factory/15e5_non_flat
+main_paper_results/Flame_equation/Plot Factory/Transfered_net_flat
+main_paper_results/Flame_equation/Plot Factory/Transfered_net_non_flat
+main_paper_results/Flame_equation/Transfered_net_flat
+main_paper_results/Flame_equation/Transfered_net_non_flat
+main_paper_results/Van der Pol/15e5_0_to_15
+main_paper_results/Van der Pol/15e5_flat_0_to_15
+main_paper_results/Van der Pol/First_try/15e5_0_to_15
+main_paper_results/Van der Pol/First_try/Transfered_flat_6e6
+main_paper_results/Van der Pol/First_try/Transfered_flat_6e6_1_6
+main_paper_results/Van der Pol/First_try/Transfered_flat_7e6_1_6
+main_paper_results/Van der Pol/Plot Factory/15e5_0_to_15
+main_paper_results/Van der Pol/Plot Factory/15e5_flat_0_to_15
+main_paper_results/Van der Pol/Plot Factory/Transfered_flat_1_7
+main_paper_results/Van der Pol/Plot Factory/Transfered_non_flat_1_7
+main_paper_results/Van der Pol/Transfered_flat_1_7
+main_paper_results/Van der Pol/Transfered_non_flat_1_6
+main_paper_results/Van der Pol/Transfered_non_flat_1_7
+main_paper_results/Flame_equation/Third_transfer/Transfered_net_non_flat
+main_paper_results/Flame_equation/Third_transfer/Transfered_net_flat
