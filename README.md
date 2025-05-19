@@ -1,4 +1,6 @@
 # Unimodulra Regularization
+[![DOI](https://arxiv.org/abs/2501.12116)](https://arxiv.org/abs/2501.12116)
+
 We present in this Github the Unimodular regularization techinque already presented in the following article: arXiv:2501.12116. This technique has been implemented for Physics Informed Neural Networs. Particularly,
 used on a Multihead setup. It has been proven that this techique allows a better response of the latent space with respect to changes on the inputs. This allows the to achieve better solutions when transfer
 learning the solution to a stiffer regime in which the original model has been trainend on.
