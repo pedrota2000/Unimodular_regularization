@@ -1,4 +1,4 @@
-# Unimodulra Regularization
+# Unimodular Regularization
 [![arXiv](https://img.shields.io/badge/arXiv-2501.12116-b31b1b.svg)](https://arxiv.org/abs/2501.12116)
 
 We present in this Github the Unimodular regularization techinque already presented in the following article: arXiv:2501.12116. This technique has been implemented for Physics Informed Neural Networs. Particularly,
