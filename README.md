@@ -6,7 +6,7 @@ used on a Multihead setup. It has been proven that this techique allows a better
 learning the solution to a stiffer regime in which the original model has been trainend on.
 
 ## How does this work?
-This setup is implemented in the alredy build [pytorch](https://github.com/pytorch/pytorch) package [neurodiffeq](https://github.com/NeuroDiffGym/neurodiffeq) to solve differential equations using neural networks. This technique consists on embedding the latent space into the
+This setup is implemented in the alredy built [pytorch](https://github.com/pytorch/pytorch) package [neurodiffeq](https://github.com/NeuroDiffGym/neurodiffeq) to solve differential equations using neural networks. This technique consists on embedding the latent space into the
 input space
 
 $$\Omega =  (x^\mu, H_i(x^\mu))$$
