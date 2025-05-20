@@ -1,7 +1,7 @@
 # Unimodular Regularization
 [![arXiv](https://img.shields.io/badge/arXiv-2501.12116-b31b1b.svg)](https://arxiv.org/abs/2501.12116)
 
-We present in this Github the Unimodular regularization techinque already presented in the following article: arXiv:2501.12116. This technique has been implemented for Physics Informed Neural Networs. Particularly,
+We present in this Github the Unimodular regularization techinque already presented in the following article: [arXiv:2501.12116](https://arxiv.org/abs/2501.12116). This technique has been implemented for Physics Informed Neural Networs. Particularly,
 used on a Multihead setup. It has been proven that this techique allows a better response of the latent space with respect to changes on the inputs. This allows the to achieve better solutions when transfer
 learning the solution to a stiffer regime in which the original model has been trainend on.
 
@@ -23,4 +23,4 @@ to not present high variability of the latent space when the inputs are slightly
 The organization of the Github is as follows: on the first folder (main_paper_results) the setup to train and generate the results of the paper (arXiv:2501.12116) can be found. We have included the three cases taken
 into account (flame equation, Van der Pol oscillator and holography).
 
-We have also added an additional folder called test, where we have put some test performed that didn't work as well as we thought. For more details, please check the main article of this GitHub: arXiv:2501.12116
+We have also added an additional folder called test, where we have put some test performed that didn't work as well as we thought. For more details, please check the main article of this GitHub: [arXiv:2501.12116](https://arxiv.org/abs/2501.12116)
